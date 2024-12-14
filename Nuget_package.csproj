@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>a00288620.nuget.package</PackageId>
+		<Version>1.0.0</Version>
+		<Author>a00288620</Author>
+		<Product>Nuget_package</Product>
+	</PropertyGroup>
+
+</Project>

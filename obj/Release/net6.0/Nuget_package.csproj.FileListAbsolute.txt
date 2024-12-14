@@ -1,0 +1,11 @@
+C:\Users\vishn\Desktop\final\Nuget_package\bin\Release\net6.0\Nuget_package.deps.json
+C:\Users\vishn\Desktop\final\Nuget_package\bin\Release\net6.0\Nuget_package.dll
+C:\Users\vishn\Desktop\final\Nuget_package\bin\Release\net6.0\Nuget_package.pdb
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.AssemblyInfoInputs.cache
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.AssemblyInfo.cs
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.csproj.CoreCompileInputs.cache
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.dll
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\refint\Nuget_package.dll
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\Nuget_package.pdb
+C:\Users\vishn\Desktop\final\Nuget_package\obj\Release\net6.0\ref\Nuget_package.dll
